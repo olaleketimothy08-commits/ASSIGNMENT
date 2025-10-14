@@ -1,0 +1,97 @@
+
+.navbar{
+    background-color: rgb(248, 245, 245);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar-nav li a{
+    color: #136649;
+}
+#back{
+     background-color: #136649;
+}
+#make{
+    background-color:  #136649;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#make img{
+    color: white;
+    filter: brightness(100);
+}
+#read{
+    color: #136649;
+    text-decoration: none;
+}
+
+h6{
+    font-size: 0.2rem;
+}
+.best{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card{
+    border: none;
+    border-color: #fff;
+    background-color: 10px solid #fff;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-weight: 520;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card-body{
+    border: 0px solid #fff;
+}
+.hover-button:hover{
+   transform: scale(1.1);
+   background-color: rgb(248, 250, 248);
+   transition: 2s ease;
+   border: 0px solid #fff;
+}
+#appoint{
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.area{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.feedback{
+    background-color: #136649;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.feed{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.pro{
+    display: flex;
+    justify-content: space-between;
+}
+.min{
+    display: flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.min h5{
+    color: #136649;
+}
+footer{
+    background-color: #136649;
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+}
+#foot p a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: #fff;
+}
+#foot p a:hover{
+    color: black;
+}
